@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 17ea02e9b2329944f93943968f2894c5
+timeCreated: 1480415085
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: back body
+    100002: //RootNode
+    100004: Bullseye
+    100006: Bullseye_Armature
+    100008: front body
+    100010: hair 1
+    100012: hair 2
+    100014: hair 3
+    100016: hair 4
+    100018: handle l
+    100020: handle r
+    100022: head
+    100024: left ear
+    100026: left foot (back)
+    100028: left foot (front)
+    100030: lower left leg (back)
+    100032: lower left leg (front)
+    100034: lower right leg (back)
+    100036: lower right leg (front)
+    100038: neck 1
+    100040: neck 2
+    100042: right ear
+    100044: right foot (back)
+    100046: right foot (front)
+    100048: root
+    100050: saddle l1
+    100052: saddle l2
+    100054: saddle r1
+    100056: saddle r2
+    100058: tail 1
+    100060: tail 2
+    100062: upper left leg (back)
+    100064: upper left leg (front)
+    100066: upper right leg (back)
+    100068: upper right leg (front)
+    400000: back body
+    400002: //RootNode
+    400004: Bullseye
+    400006: Bullseye_Armature
+    400008: front body
+    400010: hair 1
+    400012: hair 2
+    400014: hair 3
+    400016: hair 4
+    400018: handle l
+    400020: handle r
+    400022: head
+    400024: left ear
+    400026: left foot (back)
+    400028: left foot (front)
+    400030: lower left leg (back)
+    400032: lower left leg (front)
+    400034: lower right leg (back)
+    400036: lower right leg (front)
+    400038: neck 1
+    400040: neck 2
+    400042: right ear
+    400044: right foot (back)
+    400046: right foot (front)
+    400048: root
+    400050: saddle l1
+    400052: saddle l2
+    400054: saddle r1
+    400056: saddle r2
+    400058: tail 1
+    400060: tail 2
+    400062: upper left leg (back)
+    400064: upper left leg (front)
+    400066: upper right leg (back)
+    400068: upper right leg (front)
+    4300000: Bullseye
+    9500000: //RootNode
+    13700000: Bullseye
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

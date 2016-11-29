@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/AndysRoom.unity
+- path: Assets/Scenes/AndysRoom.unity
   isLoaded: 1
   isActive: 1

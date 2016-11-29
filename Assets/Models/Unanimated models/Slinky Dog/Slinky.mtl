@@ -1,0 +1,32 @@
+newmtl Eyelid
+Ka 0.972549 0.972549 0.972549
+Kd 0.972549 0.972549 0.972549
+d 1
+Tr 1
+map_Ka Eyelid.png
+map_Kd Eyelid.png
+map_d Eyelid.png
+newmtl Material__206
+Ka 0.972549 0.972549 0.972549
+Kd 0.972549 0.972549 0.972549
+d 1
+Tr 1
+map_Ka Material__206.png
+map_Kd Material__206.png
+map_d Material__206.png
+newmtl dummy_material
+Ka 0 0 0
+Kd 0.3764706 0.3764706 0.3764706
+d 1
+Tr 1
+map_Ka dummy_material.png
+map_Kd dummy_material.png
+map_d dummy_material.png
+newmtl orig_09___Defaul
+Ka 0.972549 0.972549 0.972549
+Kd 0.972549 0.972549 0.972549
+d 1
+Tr 1
+map_Ka orig_09___Defaul.png
+map_Kd orig_09___Defaul.png
+map_d orig_09___Defaul.png

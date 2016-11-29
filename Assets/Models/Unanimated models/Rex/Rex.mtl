@@ -1,0 +1,16 @@
+newmtl Material__1
+Ka 0.972549 0.972549 0.972549
+Kd 0.972549 0.972549 0.972549
+d 1
+Tr 1
+map_Ka Material__1.png
+map_Kd Material__1.png
+map_d Material__1.png
+newmtl rexbody
+Ka 0.9411765 0.9411765 0.9411765
+Kd 0.9411765 0.9411765 0.9411765
+d 1
+Tr 1
+map_Ka rexbody.png
+map_Kd rexbody.png
+map_d rexbody.png
