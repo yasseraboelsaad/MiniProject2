@@ -12,11 +12,14 @@ public class moveJessie : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
+		AudioSource audio = GameObject.Find ("Audio Source").GetComponent<AudioSource>();
 		if(Input.GetKey("q")){
 			myAnim.SetTrigger ("SleepTrigger");
+			audio.Pause ();
 		}
 		if(Input.GetKey("e")){
 			myAnim.SetTrigger ("WakeUpTrigger");
+			audio.Play ();
 		}
 	}
 }
