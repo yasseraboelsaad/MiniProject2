@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: b53aa973fa67ce144b3fb12773446a68
+timeCreated: 1480707636
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box01
+    100002: ChamferBo0
+    100004: ChamferBo1
+    100006: ChamferBo2
+    100008: ChamferBo3
+    100010: ChamferBo4
+    100012: ChamferBo5
+    100014: ChamferBox
+    100016: Cylinder01
+    100018: Cylinder02
+    100020: Cylinder03
+    100022: Cylinder04
+    100024: Cylinder05
+    100026: Cylinder06
+    100028: Cylinder07
+    100030: Group02
+    100032: Group03
+    100034: Group04
+    100036: Group05
+    100038: Line01
+    100040: Line02
+    100042: Loft01
+    100044: Loft02
+    100046: //RootNode
+    400000: Box01
+    400002: ChamferBo0
+    400004: ChamferBo1
+    400006: ChamferBo2
+    400008: ChamferBo3
+    400010: ChamferBo4
+    400012: ChamferBo5
+    400014: ChamferBox
+    400016: Cylinder01
+    400018: Cylinder02
+    400020: Cylinder03
+    400022: Cylinder04
+    400024: Cylinder05
+    400026: Cylinder06
+    400028: Cylinder07
+    400030: Group02
+    400032: Group03
+    400034: Group04
+    400036: Group05
+    400038: Line01
+    400040: Line02
+    400042: Loft01
+    400044: Loft02
+    400046: //RootNode
+    2300000: Box01
+    2300002: ChamferBo0
+    2300004: ChamferBo1
+    2300006: ChamferBo2
+    2300008: ChamferBo3
+    2300010: ChamferBo4
+    2300012: ChamferBo5
+    2300014: ChamferBox
+    2300016: Cylinder01
+    2300018: Cylinder02
+    2300020: Cylinder03
+    2300022: Cylinder04
+    2300024: Cylinder05
+    2300026: Cylinder06
+    2300028: Cylinder07
+    2300030: Line01
+    2300032: Line02
+    2300034: Loft01
+    2300036: Loft02
+    3300000: Box01
+    3300002: ChamferBo0
+    3300004: ChamferBo1
+    3300006: ChamferBo2
+    3300008: ChamferBo3
+    3300010: ChamferBo4
+    3300012: ChamferBo5
+    3300014: ChamferBox
+    3300016: Cylinder01
+    3300018: Cylinder02
+    3300020: Cylinder03
+    3300022: Cylinder04
+    3300024: Cylinder05
+    3300026: Cylinder06
+    3300028: Cylinder07
+    3300030: Line01
+    3300032: Line02
+    3300034: Loft01
+    3300036: Loft02
+    4300000: ChamferBox
+    4300002: ChamferBo0
+    4300004: Line02
+    4300006: Line01
+    4300008: ChamferBo1
+    4300010: Loft01
+    4300012: Loft02
+    4300014: ChamferBo2
+    4300016: ChamferBo3
+    4300018: ChamferBo4
+    4300020: ChamferBo5
+    4300022: Cylinder01
+    4300024: Box01
+    4300026: Cylinder07
+    4300028: Cylinder05
+    4300030: Cylinder04
+    4300032: Cylinder03
+    4300034: Cylinder02
+    4300036: Cylinder06
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
