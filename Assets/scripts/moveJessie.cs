@@ -14,10 +14,12 @@ public class moveJessie : MonoBehaviour {
 	void Update () {
 		AudioSource audio = GameObject.Find ("Audio Source").GetComponent<AudioSource>();
 		if(Input.GetKey("q")){
+			myAnim.ResetTrigger ("WakeUpTrigger");
 			myAnim.SetTrigger ("SleepTrigger");
 			audio.Pause ();
 		}
-		if(Input.GetKey("e")){
+		else if(Input.GetKey("e")){
+			myAnim.ResetTrigger ("SleepTrigger");
 			myAnim.SetTrigger ("WakeUpTrigger");
 			audio.Play ();
 		}
